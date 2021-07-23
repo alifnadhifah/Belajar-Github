@@ -1,4 +1,3 @@
-==
-Belajar-Github
---
+# Belajar-Github
+
 Cara Penggunaan Github
